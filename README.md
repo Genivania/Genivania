@@ -40,6 +40,3 @@ Recentemente ingressei no curso Técnico de Desenvolvimento de Sistemas do SENAI
 
 <i class="devicon-linkedin-plain-wordmark colored"></i>
 [![Linkedin: Genivania ](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/genivania-macedo-12458a201/)
-
-
-[![Instagram: Genivania](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://www.instagram.com/geni_macedoo/?next=%2F)
